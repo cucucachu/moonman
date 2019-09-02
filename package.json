@@ -1,0 +1,19 @@
+{
+  "name": "moonman",
+  "version": "1.0.0",
+  "description": "A object management system for nodejs and mongodb which allows object-oriented querying, data consistency, access control, and audit history.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cucucachu/moonman.git"
+  },
+  "author": "Cody Jones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cucucachu/moonman/issues"
+  },
+  "homepage": "https://github.com/cucucachu/moonman#readme"
+}
